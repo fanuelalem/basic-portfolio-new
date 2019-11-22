@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+portfolio/bio/contact website
 
 ## Getting Started
 
@@ -46,11 +46,11 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **YOUR NAME** 
+Fanuel Alem 
 
 - [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/fanuelalem/basic-portfolio-new)
+- [Link to LinkedIn](https://www.linkedin.com/in/fanuel-alem-12991b32/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -60,6 +60,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* professorHat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
+* teacher assistants
