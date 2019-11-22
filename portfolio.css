@@ -1,10 +1,8 @@
-
-
-#pic1 {position:absolute;align: center;width: 300px; height:200px; margin-top:5px; float:left; margin-left:500px}
-#pic2 {position:absolute;align: center;width: 300px; height:200px; margin-top:850px; float:left; margin-left:500px}
-#pic3 {position:absolute;align: center;width: 300px; height:200px; margin-top:600px; float:left; margin-left:500px}
-#pic4 {position:absolute;align: center;width: 300px; height:200px; margin-top:350px; float:left; margin-left:500px}
+#pic1 {border:solid #2399ad; position:absolute;align: center;width: 300px; height:200px; margin-top:5px; float:left; margin-left:500px}
+#pic2 {border:solid #2399ad;position:absolute;align: center;width: 300px; height:200px; margin-top:850px; float:left; margin-left:500px}
+#pic3 {border:solid #2399ad;position:absolute;align: center;width: 300px; height:200px; margin-top:600px; float:left; margin-left:500px}
+#pic4 {border: solid #2399ad;position:absolute;align: center;width: 300px; height:200px; margin-top:350px; float:left; margin-left:500px}
 body {background-image: url(../basic-portfolio-new/assets/images/embossed-diamond.png);margin:0;}
-#main {background-color:red; background-color:red; height:0px; width:1500px;margin-left:275px; margin-top:35px;}
-#paragraph {color:white; font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";font-size: 85px;padding: 35px;background-color:#2399ad;width:305px;margin-top:40px;margin-left:450px;}
+#main {;background-color:red; background-color:red; height:0px; width:1500px;margin-left:275px; margin-top:35px;}
+#paragraph {border:solid yellow;color:white; font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";font-size: 85px;padding: 35px;background-color:#2399ad;width:305px;margin-top:40px;margin-left:450px;}
 #paragraph2 {font-size:18px;padding: 35px;background-color:gray;width:1000px;margin-top:30px;margin-left:80px;}

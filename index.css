@@ -45,7 +45,9 @@ body {margin:auto;
         background-color:blue;
     } 
     
-    #main-bio {
+    #main-bio {border-right:solid black;
+        border-left:solid black;
+        border-top:solid black;
         font-size: 30px;
         margin-left:0;
         margin-bottom:0;
@@ -71,4 +73,6 @@ body {margin:auto;
     serif;
     border-top: solid red;width: 1600px;}
     
-    #paragraph {height:395px;font-size: 24px;background-color:white;width:1000px;position: float:right;margin-right:450px;margin-top:auto;margin-bottom:}
+    #paragraph {border-right: solid black;border-left:solid black;
+        border-bottom:solid black;
+        height:395px;font-size: 24px;background-color:white;width:1000px;position: float:right;margin-right:450px;margin-top:auto;margin-bottom:}
