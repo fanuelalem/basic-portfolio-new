@@ -1,3 +1,7 @@
-.thought1 {color:blue; margin-left:200px; width:700px;}
-.thought2 {color:blue;margin-left:200px; width:700px;}
-.thought3 {color:blue;margin-left:200px;width:700px;}
+#box3 {height: 200px;padding:30px;text-align:center;background-color:yellow; margin-left:350px;margin-right:400px; width:530px;}
+#box1 {margin-top:5px;padding:30px;text-align:center;background-color:orange; margin-left:350px;margin-right:400px; width:530px;}
+#box2{ padding:30px;text-align:center;background-color:yellow; margin-left:350px;margin-right:400px; width:530px;}
+h5{margin-left:580px;font-size:40px;margin-top:40px;margin-bottom:20px; color: orange}
+h6{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
+h2{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
+h4{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
