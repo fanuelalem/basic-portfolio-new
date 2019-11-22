@@ -1,72 +1,74 @@
 body {margin:auto;
-height: auto;}
-    
-}
-header {
- 
-
-
-}
-h1 {
-    margin-bottom: 0;
-    margin-top: 0;
-    width: 275px;
-    padding: 12px;
-    margin-left: 100px;
-    background-color:#4aaaa5;
-    color: yellow;
-    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    height: auto;}
+        
     }
-#contentbox {
-    margin-left: 100px;
-    position: absolute;
-    float: left;
-    width: 1000px;
-    height: 277px;
-    color: black;
-    background-color: orange;
-    float: left;
-
-p {
-font-family:"times new roman";
-margin-left: 20px;
-}
-}
-.box {
-    width: 100%;
+    header {
+     
     
-   
-
-}
-.container {
-    position: absolute;
-    width: 1600px;
-    height: 700px;
-    background-color:blue;
-} 
-
-#main-bio {
-    margin-top:20px;
+    
+    }
+    h1 {
+        margin-bottom: 0;
+        margin-top: 0;
+        width: 275px;
+        padding: 12px;
+        margin-left: 100px;
+        background-color:#4aaaa5;
+        color: yellow;
+        font-family: 'Georgia', Times, 'Times New Roman', serif;
+        }
+    #contentbox {
+        margin-left: 100px;
+        position: absolute;
+        float: left;
+        width: 1000px;
+        height: 277px;
+        color: black;
+        background-color: blue;
+        float: left;
+    
+    p {
+    font-family:"times new roman";
     margin-left: 20px;
-    margin-bottom:25px;
-    background-color:  ;
-    padding: 10px;
-    width: 250px;
-    background-color:green
-}
-#bio-image {
-    margin-bottom: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
-    float: left;
-}
-footer {
-height: 100px;
-margin-top:700px;
-position: absolute; float: left;width: 1500px;width: 1500px;background-color: #666666;
-padding: 30p;margin: auto0;background-color:#4aaaa5;color: white;
-font-family: 'Georgia', Times, 'Times New Roman', 
-serif;
-border-top: solid red;width: 1600px;}
-
-#p { font-family: "times new roman"}
+    }
+    }
+    .box {
+        width: 100%;
+        
+       
+    
+    }
+    .container {
+        position: absolute;
+        width: 1600px;
+        height: 700px;
+        background-color:blue;
+    } 
+    
+    #main-bio {
+        font-size: 30px;
+        margin-left:0;
+        margin-bottom:0;
+        margin-top: 20px;
+        background-color:;
+        padding: 10px;
+        width: 830px;
+        background-color: orange;
+        position: relative;
+    }
+    #bio-image {
+        margin-bottom: 20px;
+        margin-right: 50px;
+        margin-left: 20px;
+        float: left;
+    }
+    footer {
+    height: 100px;
+    margin-top:700px;
+    position: absolute; float: left;width: 1500px;width: 1500px;background-color: #666666;
+    padding: 30p;margin: auto0;background-color:#4aaaa5;color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', 
+    serif;
+    border-top: solid red;width: 1600px;}
+    
+    #paragraph {font-size: 24px;background-color:orange;width:850px;position: float:right;margin-right:450px;margin-top:auto;margin-bottom:}
