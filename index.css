@@ -38,16 +38,14 @@ body {margin:auto;
     
     }
     .container {
-        background-image:url(../basic-portfolio-new/assets/images/embossed-diamond.png);
+        background-image:url(./assets/images/triangle-mosaic.png);
         position: absolute;
         width: 1600px;
         height: 700px;
         background-color:blue;
     } 
     
-    #main-bio {border-right:solid black;
-        border-left:solid black;
-        border-top:solid black;
+    #main-bio {border-right:#cccccc;
         font-size: 30px;
         margin-left:0;
         margin-bottom:0;
@@ -73,6 +71,5 @@ body {margin:auto;
     serif;
     border-top: solid red;width: 1600px;}
     
-    #paragraph {border-right: solid black;border-left:solid black;
-        border-bottom:solid black;
+    #paragraph {
         height:395px;font-size: 24px;background-color:white;width:1000px;position: float:right;margin-right:450px;margin-top:auto;margin-bottom:}
