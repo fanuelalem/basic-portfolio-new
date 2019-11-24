@@ -13,7 +13,7 @@ body {margin:auto;
         background-color: white;
         padding-top: 35px;
         margin-bottom:0;
-        width:952px;
+        width:864px;
         font-size:25px;
         padding-left:48px;
         padding-bottom:18px;
@@ -37,7 +37,7 @@ body {margin:auto;
         }
     #contentbox {margin-top:0;
         margin-left: 100px;
-        width: 1000px;
+        width: 100px;
         height: 277px;
         background-color:blue;
         }
@@ -55,13 +55,19 @@ body {margin:auto;
         }
         
        
-    h5{padding-bottom: 0px;padding-bottom: 10px;
-        margin-left: 0px;color:#4aaaa5;}
+    h5{
+        width: 864px;
+        padding-bottom: 0px;
+        padding-bottom: 10px;
+        margin-left: 0px;
+        color:#4aaaa5;
+        }
     
 
     
     
     #main-bio {
+        width: 900px;
         margin-top: 55px;
     }
     #bio-image {
@@ -90,6 +96,7 @@ body {margin:auto;
     }
     
     #paragraph {
+        paddin-bottom: 5px;
         margin-right: 0px;
         color:black;
         border-right:solid #dddddd;
@@ -98,13 +105,16 @@ body {margin:auto;
         height: 450px;
         font-size: 18px;
         background-color:white;
-        width:1000px;
+        width:960px;
         position: float:right;
         margin-right:450px;
         margin-top:auto;
         margin-bottom:;
+        padding-bottom: 30px;
         }
         #copyright {margin-bottom:0;}
         h6 {margin-bottom: 0;text-align:center;color:white;font-family:'Times New Roman', Times, serif;font-size:16px;}
+        
+        
         
         
