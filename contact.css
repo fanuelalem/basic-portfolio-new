@@ -1,9 +1,15 @@
+body{margin:auto;margin-top:30px;background-image: url(./assets/images/so-white.png);height:1000px;}
+h5{color: #4aaaa5;font-size: 25px;margin-left: 35px;margin-top:10px;size: 1;margin-bottom: 15px;}
+#name {padding: 10px;color: white;margin-bottom: 10;font-size: 40px;margin-right: 500px;margin-left: 100px;float: left;background-color: #4aaaa5;border-top: solid #dddddd;}
+#links {padding-top: 35px;height: 31px;padding-bottom: 0;background-color: white;Border: solid #dddddd;}
+#about,#portfolio,#contact{background-color:white;margin-top: 30px;font-size:20px;margin-left:10px;color:gray;}
 
-body{background-image:url(../basic-portfolio-new/assets/images/embossed-diamond.png)}
-#box3 {border:solid black;height: 200px;padding:30px;text-align:center;background-color:white; margin-left:350px;margin-right:400px; width:530px;}
-#box1 {border:solid black;margin-top:5px;padding:30px;text-align:center;background-color:white; margin-left:350px;margin-right:400px; width:530px;}
-#box2{ border: solid black; padding:30px;text-align:center;background-color:white; margin-left:350px;margin-right:400px; width:530px;}
-h5{margin-left:580px;font-size:40px;margin-top:40px;margin-bottom:20px; color: black}
-h6{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
-h2{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
-h4{margin-left:350px;font-size:30px;margin-top:5px;margin-bottom:5px;}
+#originalcontainer {float: left;background-color: white;padding: 0;margin-top: 50px;width: 960px;margin-left: 100px;pad;padding-top: 0;border:solid #dddddd;}
+#container1 {margin-left:35px;margin-top:25px}
+#container2{margin-left:35px;}
+#container3{margin-left:35px;}
+input {width:880px;}
+#input2 {height:300px;}
+#about,#portfolio,#contact{color: gray;background-color:white;margin-top:30px;font-size:20px;margin-left:10px;}
+#submit {color: white;width: 80px;height: 45px;margin-bottom: 20px;size: 40px;margin-left:33px;background-color:#4aaaa5;font-size:18px;}
+hr{margin-left:35px;margin-right:35px;}

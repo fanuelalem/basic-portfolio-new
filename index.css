@@ -1,12 +1,17 @@
-body {margin:auto;
-    border-top:solid #cccccc;
-    border-style left:ridge;border-style right :ridge; border style bottom: ridge;
+body {
+    margin: auto;
+    border-style left:ridge;
+    border-style right :ridge;
+    border style bottom: ridge;
     background-image:url(./assets/images/so-white.png);
     position: absolute;
     width: 1600px;
-    height: 400px;}
+    height: 400px;
+    }
         
+#about,#portfolio,#contact{background-color:white;margin-top: 30px;font-size:20px;margin-left:10px;color:gray;}
     
+#links {padding-top: 35px;margin-top: 30px;margin-bottom: 50px;background-color: white;Border: solid #dddddd;height: 31px;}
 
     h5{
         margin-top: 0px;
@@ -24,22 +29,22 @@ body {margin:auto;
         width: 904px;
         }
 
-    #name {background-color:white;border-bottom-style:ridge;}
+        #name {margin-top: 33px;padding: 10px;color: white;margin-bottom: 10;font-size: 40px;margin-right: 500px;margin-left: 100px;float: left;background-color: #4aaaa5;}
     
-    h1{padding-top:35px;padding-left:35px;height:75px;
+    h1{
+        margin-top: 33px;
+        background-color: blue;
+        padding: 10px;
+      
         margin-bottom: 0;
-        margin-top: 0;
-        width: 275px;
         margin-left: 100px;
         background-color:#4aaaa5;
         color: white;
         font-family: 'Georgia', Times, 'Times New Roman', serif;
         }
-    #contentbox {margin-top:0;
-        margin-left: 100px;
-        width: 100px;
-        height: 277px;
-        background-color:blue;
+    #contentbox {
+       
+        margin-top: 10;
         }
     
     p{
@@ -56,27 +61,29 @@ body {margin:auto;
         
        
     h5{
+        margin-top: 50px;
+        margin-top: 0;
         width: 864px;
         padding-bottom: 0px;
         padding-bottom: 10px;
-        margin-left: 0px;
+        margin-left: 100px;
         color:#4aaaa5;
+      
         }
     
 
     
     
-    #main-bio {
-        width: 900px;
-        margin-top: 55px;
+    #main-bio {padding-left:0px;
+    width:0;
     }
     #bio-image {
         margin-top:30px;
         margin-bottom: 30px;
         margin-right: 50px;
-        margin-left: 50px;
+        margin-left: 150px;
         float: left;
-        width:140px
+        width:140px;
     }
     footer {
     height: 70px;
@@ -96,7 +103,7 @@ body {margin:auto;
     }
     
     #paragraph {
-        paddin-bottom: 5px;
+        margin-left: 100px;
         margin-right: 0px;
         color:black;
         border-right:solid #dddddd;
@@ -114,6 +121,10 @@ body {margin:auto;
         }
         #copyright {margin-bottom:0;}
         h6 {margin-bottom: 0;text-align:center;color:white;font-family:'Times New Roman', Times, serif;font-size:16px;}
+        
+        
+        
+        
         
         
         
