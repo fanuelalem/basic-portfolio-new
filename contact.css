@@ -1,8 +1,8 @@
 body{margin:auto;margin-top:30px;background-image: url(./assets/images/so-white.png);height:1000px;}
 h5{color: #4aaaa5;font-size: 25px;margin-left: 35px;margin-top:10px;size: 1;margin-bottom: 15px;}
 #name {padding: 10px;color: white;margin-bottom: 10;font-size: 40px;margin-right: 500px;margin-left: 100px;float: left;background-color: #4aaaa5;border-top: solid #dddddd;}
-#links {padding-top: 35px;height: 31px;padding-bottom: 0;background-color: white;Border: solid #dddddd;}
-#about,#portfolio,#contact{background-color:white;margin-top: 30px;font-size:20px;margin-left:10px;color:gray;}
+#links {padding-top: 35px;height: 31px;padding-bottom: 0;background-color: white;Border: solid #dddddd;text-decoration: none;}
+#about,#portfolio,#contact{background-color:white;margin-top: 30px;font-size:20px;margin-left:10px;color:gray;text-decoration: none;}
 
 #originalcontainer {float: left;background-color: white;padding: 0;margin-top: 50px;width: 960px;margin-left: 100px;pad;padding-top: 0;border:solid #dddddd;}
 #container1 {margin-left:35px;margin-top:25px}
