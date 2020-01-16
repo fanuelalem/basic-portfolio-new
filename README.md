@@ -1,6 +1,6 @@
 # index/portfolio/contact
 
-portfolio/bio/contact website
+portfolio/main/contact website
 
 ## Getting Started
 
